@@ -1,2 +1,2 @@
-# Learning-fast.ai-Lesson-1-v2
+# Learning-fast.ai
 This repository contains my notes for fast.ai Part 1 v2 Lesson 1. In it you will find my lesson's learned, comments on what each line of code does and especially, detail explanation of the following plotting functions written by Jeremy: rand_by_mask(), rand_by_correct(), plots(), plot_val_with_title(), most_by_mask(), and most_by_correct(). At the end of the nb, you will find an Appendix with explanation of the most used Numpy functions.
