@@ -1,2 +1,5 @@
-# Learning-fast.ai
-This repository contains my notes for fast.ai Part 1 v2 Lesson 1. In it you will find my lesson's learned, comments on what each line of code does and especially, detail explanation of the following plotting functions written by Jeremy: rand_by_mask(), rand_by_correct(), plots(), plot_val_with_title(), most_by_mask(), and most_by_correct(). At the end of the nb, you will find an Appendix with explanation of the most used Numpy functions.
+# Learning-fast.ai <br>
+
+* **Lessons Notes**: contains lecture notes, lessons learned, comments on code functionality, links to libraries, experimentation(what if I do it this way instead?), etc. <br>
+
+* **Single Shot Detector**: apply lessons 1, 2, 3, 8, and 9 to detect house number images using Street View House Number datasets, using SSD techques. <br>
